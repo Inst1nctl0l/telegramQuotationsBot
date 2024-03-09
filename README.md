@@ -6,6 +6,6 @@ The bot's functions include returning quotes and prompting users to use the comm
 # UML
 -------------
 
-![Image text](https://github.com/Inst1nctl0l/telegramQuotationsBot/edit/main/屏幕截图 2024-03-09 115522.png)
+![Image text](https://github.com/Inst1nctl0l/telegramQuotationsBot/edit/main/uml.png)
 
 
