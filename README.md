@@ -6,6 +6,6 @@ The bot's functions include returning quotes and prompting users to use the comm
 # UML
 -------------
 
-![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://github.com/Inst1nctl0l/telegramQuotationsBot/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-09%20115522.png))
+![Image text]((https://github.com/Inst1nctl0l/telegramQuotationsBot/edit/main/屏幕截图 2024-03-09 115522.png))
 
 
